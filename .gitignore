@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+# CMake build
+build
+
+# Visual Studio Code settings
+.vscode
+
+# ImGui settings
+imgui.ini
